@@ -1,0 +1,12 @@
+[submodule "auth"]
+	path = src/auth
+	url = https://github.com/elephanteleven/auth.git
+[submodule "coolify-operator"]
+	path = src/coolify-operator
+	url = https://github.com/elephanteleven/coolify-operator.git
+[submodule "vibe-deployment"]
+	path = src/vibe-deployment
+	url = https://github.com/wongpratan/vibe-deployment.git
+[submodule "web"]
+	path = src/web
+	url = https://github.com/elephanteleven/web.git
